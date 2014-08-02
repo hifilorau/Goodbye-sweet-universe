@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Goodbye Sweet Universe</title>
+		<link rel="stylesheet" type="text/css" href="style1.css">
+<body>
+
+<h1>
+One day you wake up and everything is missing. Your most precious thing, your blood and water, is lost inside of a different universe. 
+</h>
+
+<script type="text/javascript">
+
+confirm("Do you find a way to blow up heaven or do you shut your eyes and try and go back to sleep?");
+
+</script>
+
